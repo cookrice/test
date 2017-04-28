@@ -9,7 +9,7 @@ public class Main {
 
 
        Scanner input = new Scanner(System.in);
-       System.out.println("Do you like bernie?");
+       System.out.println("Do you like cake?");
        String a = input.next();
 
        if(a.equalsIgnoreCase("yes"){
